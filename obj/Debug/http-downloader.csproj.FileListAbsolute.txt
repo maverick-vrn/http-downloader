@@ -10,3 +10,9 @@ D:\Files\Work\GitHub\http-downloader\obj\Debug\http-downloader.pdb
 D:\Files\Work\GitHub\http-downloader\bin\Debug\http-downloader.exe
 D:\Files\Work\GitHub\http-downloader\bin\Debug\http-downloader.pdb
 D:\Files\Work\GitHub\http-downloader\obj\Debug\http-downloader.csprojResolveAssemblyReference.cache
+C:\DOCUMENTS\Work\http-downloader\bin\Debug\http-downloader.exe.config
+C:\DOCUMENTS\Work\http-downloader\bin\Debug\http-downloader.exe
+C:\DOCUMENTS\Work\http-downloader\bin\Debug\http-downloader.pdb
+C:\DOCUMENTS\Work\http-downloader\obj\Debug\http-downloader.csprojResolveAssemblyReference.cache
+C:\DOCUMENTS\Work\http-downloader\obj\Debug\http-downloader.exe
+C:\DOCUMENTS\Work\http-downloader\obj\Debug\http-downloader.pdb

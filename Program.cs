@@ -18,7 +18,8 @@ namespace http_downloader
 		public static void Main(string[] args)
 		{
 			Console.WriteLine("Starting dowload.........");
-			//MakeUrlList(args); //Test reading from file
+            //MakeUrlList(args); //Test reading from file
+            Console.ReadLine();
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
 		}
