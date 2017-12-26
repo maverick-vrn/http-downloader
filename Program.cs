@@ -18,7 +18,7 @@ namespace http_downloader
 		public static void Main(string[] args)
 		{
 			Console.WriteLine("Starting dowload.........");
-            //MakeUrlList(args); //Test reading from file
+            MakeUrlList(args); //Test reading from file
             Console.ReadLine();
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
@@ -38,7 +38,7 @@ namespace http_downloader
 		public static string[] MakeUrlList(string[] args)
 		{
 			string line;
-			string[] urls =File.ReadAllLines(@"c:\file.txt");
+			string[] urls =File.ReadAllLines(@"c:\urls.txt");
 			for (int i=0; i<urls.Length; ++i )
 				Console.WriteLine(urls[i]);
 			return urls;

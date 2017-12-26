@@ -1,0 +1,4 @@
+D:\Docs\Work\http-downloader\bin\Release\http-downloader.exe.config
+D:\Docs\Work\http-downloader\bin\Release\http-downloader.exe
+D:\Docs\Work\http-downloader\obj\Release\http-downloader.csproj.CoreCompileInputs.cache
+D:\Docs\Work\http-downloader\obj\Release\http-downloader.exe

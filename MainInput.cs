@@ -26,9 +26,9 @@ namespace http_downloader
             Int32.TryParse(spd, out speed);
         }
 
-        string getSpeed()
+        int getSpeed()
         {
-            //
+            return speed;
         }
 
 
