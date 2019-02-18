@@ -1,12 +1,4 @@
-﻿/*
- * Created by SharpDevelop.
- * User: Maverick
- * Date: 15.11.2016
- * Time: 12:14
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- */
-using System;
+﻿using System;
 using System.IO;
 using System.Net;
 using System.Threading;
@@ -38,9 +30,11 @@ namespace http_downloader
 		public static string[] MakeUrlList(string[] args)
 		{
 			string line;
-			string[] urls =File.ReadAllLines(@"c:\urls.txt");
-			for (int i=0; i<urls.Length; ++i )
+			string[] urls =File.ReadAllLines(args[0]);
+            // Test log urls to console output
+            for (int i=0; i<urls.Length; ++i )
 				Console.WriteLine(urls[i]);
+            // End
 			return urls;
 		}
 	}

@@ -1,4 +1,3 @@
-D:\Docs\Work\http-downloader\obj\Debug\http-downloader.csprojResolveAssemblyReference.cache
 D:\Docs\Work\http-downloader\bin\Debug\http-downloader.exe.config
 D:\Docs\Work\http-downloader\bin\Debug\http-downloader.exe
 D:\Docs\Work\http-downloader\bin\Debug\http-downloader.pdb
