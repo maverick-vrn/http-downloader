@@ -11,22 +11,22 @@ namespace http_downloader
     class MainInput
 
     {
-        string file_path;
-        int speed;
-        string folder;
+        private string file_path;
+        private int speed;
+        private string folder;
 
-        string getFilePath()
+        public string GetFilePath()
         {
             return file_path;
         }
 
-        void setSpeed()
+        public void SetSpeed()
         {
             string spd = Console.ReadLine();
-            Int32.TryParse(spd, out speed);
+            int.TryParse(spd, out speed);
         }
 
-        int getSpeed()
+        public int GetSpeed()
         {
             return speed;
         }

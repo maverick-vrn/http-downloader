@@ -16,3 +16,10 @@ C:\DOCUMENTS\Work\http-downloader\obj\Debug\http-downloader.csprojResolveAssembl
 C:\DOCUMENTS\Work\http-downloader\obj\Debug\http-downloader.exe
 C:\DOCUMENTS\Work\http-downloader\obj\Debug\http-downloader.pdb
 D:\Docs\Work\http-downloader\obj\Debug\http-downloader.csproj.CoreCompileInputs.cache
+C:\[DOCS]\Work\http-downloader\bin\Debug\http-downloader.exe.config
+C:\[DOCS]\Work\http-downloader\bin\Debug\http-downloader.exe
+C:\[DOCS]\Work\http-downloader\bin\Debug\http-downloader.pdb
+C:\[DOCS]\Work\http-downloader\obj\Debug\http-downloader.csprojAssemblyReference.cache
+C:\[DOCS]\Work\http-downloader\obj\Debug\http-downloader.csproj.CoreCompileInputs.cache
+C:\[DOCS]\Work\http-downloader\obj\Debug\http-downloader.exe
+C:\[DOCS]\Work\http-downloader\obj\Debug\http-downloader.pdb
