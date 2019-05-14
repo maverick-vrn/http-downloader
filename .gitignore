@@ -3,3 +3,5 @@
 *.cache
 *.ide-wal
 *.ide-shm
+*.lock
+*.ide
