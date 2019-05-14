@@ -43,5 +43,20 @@ namespace http_downloader
             }
             else return null;
 		}
-	}
+
+        public static Boolean CheckArgs(string[] args)
+        {
+            int.TryParse(args[0], out int threadCount);
+            int.TryParse(args[1], out MainInput.Speed);
+            string path = args[2];
+            string folder = args[3];
+            if ( (args.Length == 4) 
+                    && (threadCount >=1)
+                    && (speed >=1)
+               )
+                return true;
+            else return false;
+        }
+
+    }
 }
