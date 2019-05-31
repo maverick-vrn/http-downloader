@@ -5,3 +5,4 @@
 *.ide-shm
 *.lock
 *.ide
+.vs/http-downloader/v15/.suo
