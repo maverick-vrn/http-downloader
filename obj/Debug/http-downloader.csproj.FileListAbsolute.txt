@@ -23,3 +23,4 @@ C:\[DOCS]\Work\http-downloader\obj\Debug\http-downloader.csprojAssemblyReference
 C:\[DOCS]\Work\http-downloader\obj\Debug\http-downloader.csproj.CoreCompileInputs.cache
 C:\[DOCS]\Work\http-downloader\obj\Debug\http-downloader.exe
 C:\[DOCS]\Work\http-downloader\obj\Debug\http-downloader.pdb
+D:\Docs\Work\http-downloader\obj\Debug\http-downloader.csprojAssemblyReference.cache

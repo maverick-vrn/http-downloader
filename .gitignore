@@ -1,5 +1,5 @@
-.suo
-.cache
+*..suo
+*..cache
 *.cache
 *.ide-wal
 *.ide-shm
