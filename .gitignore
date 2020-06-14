@@ -6,3 +6,5 @@
 *.lock
 *.ide
 .vs/http-downloader/v15/.suo
+.vs/http-downloader/v16/.suo
+obj/Debug/http-downloader.csproj.FileListAbsolute.txt
