@@ -1,17 +1,17 @@
-http://normalvent.ru/files/catalogs/NV-portfolio.pdf
-http://normalvent.ru/files/catalogs/NV-KNS.pdf
-http://normalvent.ru/files/catalogs/LM-pro-cool.pdf
-http://air-ned.com/pdf/pass_11.pdf
-http://air-ned.com/pdf/SMARTNED_2020.pdf
-http://air-ned.com/pdf/NED_KAT_2020_single1.pdf
-http://air-ned.com/pdf/NED_booklet_2019_single.pdf
-https://waer-air.com/data/uploads/download/chillers-and-heat-pumps-2021.pdf
-https://waer-air.com/data/uploads/download/compressor-and-condenser-blocks-waer-2021.pdf
-https://waer-air.com/data/uploads/download/smoke-control-ventilation-waer-2021.pdf
-https://waer-air.com/data/uploads/download/automatic-control-systems-waer-2021.pdf
-https://waer-air.com/data/uploads/download/roof-fan-waer-2021.pdf
-https://waer-air.com/data/uploads/download/air-curtains-waer-2021.pdf
-https://waer-air.com/data/uploads/download/fans-waer-2021.pdf
-https://waer-air.com/data/uploads/download/channel-equipment.pdf
-https://waer-air.com/data/uploads/download/central-air-conditioners-waer-2021.pdf
-https://waer-air.com/data/uploads/download/katalog-waer-2021.pdf
+http://normalvent.ru/files/catalogs/NV-portfolio.pdf portfolio.pdf
+http://normalvent.ru/files/catalogs/NV-KNS.pdf kns.pdf
+http://normalvent.ru/files/catalogs/LM-pro-cool.pdf cool.pdf
+http://air-ned.com/pdf/pass_11.pdf 11/pdf
+http://air-ned.com/pdf/SMARTNED_2020.pdf smrtnd.pdf
+http://air-ned.com/pdf/NED_KAT_2020_single1.pdf single1.pdf
+http://air-ned.com/pdf/NED_booklet_2019_single.pdf booklet.pdf
+https://waer-air.com/data/uploads/download/chillers-and-heat-pumps-2021.pdf pumps.pdf
+https://waer-air.com/data/uploads/download/compressor-and-condenser-blocks-waer-2021.pdf blocks.pdf
+https://waer-air.com/data/uploads/download/smoke-control-ventilation-waer-2021.pdf smoke.pdf
+https://waer-air.com/data/uploads/download/automatic-control-systems-waer-2021.pdf auto.pdf
+https://waer-air.com/data/uploads/download/roof-fan-waer-2021.pdf roof.pdf
+https://waer-air.com/data/uploads/download/air-curtains-waer-2021.pdf curtains.pdf
+https://waer-air.com/data/uploads/download/fans-waer-2021.pdf fans.pdf
+https://waer-air.com/data/uploads/download/channel-equipment.pdf channel.pdf
+https://waer-air.com/data/uploads/download/central-air-conditioners-waer-2021.pdf central.pdf
+https://waer-air.com/data/uploads/download/katalog-waer-2021.pdf katalog.pdf
